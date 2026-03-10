@@ -1,28 +1,38 @@
 # E-Commerce Customer Analysis
 
-This project analyzes customer purchasing behavior using Python and the Online Retail dataset. The goal is to identify top selling products, sales distribution across countries, and customer purchasing patterns.
+This project analyzes customer purchasing behavior using the Online Retail dataset.  
+The analysis identifies top selling products, country-wise sales distribution, and monthly sales trends using Python.
 
--->Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - Matplotlib
-- Data Analysis
 
--->Dataset
+## Dataset
 Dataset Source: Kaggle - Online Retail Dataset
 
 Download the dataset from:
 https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset
 
--->Features
+## Features
 - Data cleaning and preprocessing
 - Identification of top selling products
 - Country-wise sales analysis
-- Visualization of sales data using charts
+- Monthly sales trend analysis
+- Data visualization using graphs
 
--->Files
-- ecommerce_analysis.py → Python script used for analysis
-- online_retail.csv → Dataset (download from Kaggle link above)
+## Output Graphs
 
--->Output:
-The project generates insights about product sales and customer purchasing patterns using data visualization.
+### Top Selling Products
+![Top Selling Products](top_products.png)
+
+### Sales by Country
+![Sales by Country](country_sales.png)
+
+### Monthly Sales Trend
+![Monthly Sales Trend](monthly_sales.png)
+
+## Conclusion
+The analysis helps identify popular products and countries contributing the most to sales.  
+These insights can help businesses understand customer purchasing behavior and improve sales strategies.
+
