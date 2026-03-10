@@ -24,5 +24,5 @@ https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset
 - ecommerce_analysis.py → Python script used for analysis
 - online_retail.csv → Dataset (download from Kaggle link above)
 
--->Output
+-->Output:
 The project generates insights about product sales and customer purchasing patterns using data visualization.
